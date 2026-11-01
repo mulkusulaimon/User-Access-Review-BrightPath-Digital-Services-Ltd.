@@ -21,8 +21,8 @@ BrightPath Digital Services Ltd. is fictional. The example review considers an a
 8. Escalate unresolved issues under the organisation’s process.
 
 ## Files
-- `BrightPath_User_Access_Review_Portfolio_Case_Study.docx` — process and example case study.
-- `BrightPath_User_Access_Review_Portfolio_Template.xlsx` — working log with illustrative examples and a Read Me sheet.
+- [[`BrightPath_User_Access_Review_Portfolio_Case_Study.docx`]](https://docs.google.com/document/d/1n_atk-ZTgZ-i_tr1WdCxaDlX2Hsif4_V/edit?usp=drivesdk&ouid=106493667760114050662&rtpof=true&sd=true) — process and example case study.
+- [`BrightPath_User_Access_Review_Portfolio_Template.xlsx`](https://docs.google.com/spreadsheets/d/15WH5bSU2nSsXrwmMms9fAhncsFNGkgcz/edit?usp=drivesdk&ouid=106493667760114050662&rtpof=true&sd=true) — working log with illustrative examples and a Read Me sheet.
 
 ## Evidence considerations
 Potential evidence includes an account/permission export, job responsibilities, documented owner approval, a change ticket, and verification of resulting permissions. Never include passwords, tokens, or confidential company data.
