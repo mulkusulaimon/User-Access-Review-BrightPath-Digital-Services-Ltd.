@@ -23,6 +23,35 @@ BrightPath Digital Services Ltd. is fictional. The example review considers an a
 ## Files
 - [`BrightPath_User_Access_Review_Portfolio_Case_Study.docx`]
 - [`BrightPath_User_Access_Review_Portfolio_Template.xlsx`]— working log with illustrative examples and a Read Me sheet.
+## Sample of the User Access Review
+
+The following illustrates how user accounts and permissions can be reviewed to determine whether access remains appropriate.
+
+| User | Department | System Access | Review Decision | Reason |
+|---|---|---|---|---|
+| John | Finance | Accounting application | Keep | Access required for assigned duties |
+| Sarah | Marketing | Customer database | Investigate | Business justification requires confirmation |
+| David | IT | Administrator account | Modify | Privileged access requires review |
+| Former Employee | Operations | Corporate email | Remove | Employment has ended |
+
+### Access Review Decisions
+
+| Decision | Meaning |
+|---|---|
+| Keep | Access is appropriate and remains necessary |
+| Modify | Access needs to be adjusted |
+| Remove | Access is no longer required |
+| Investigate | Additional information is needed before deciding |
+
+### What This Project Demonstrates
+
+- User access reviews.
+- Identification of excessive permissions.
+- Joiner, mover and leaver considerations.
+- Access review decisions.
+- Documentation and evidence tracking.
+
+**Full project:** See the User Access Review Procedure and Working Template in this repository.
 
 ## Evidence considerations
 Potential evidence includes an account/permission export, job responsibilities, documented owner approval, a change ticket, and verification of resulting permissions. Never include passwords, tokens, or confidential company data.
