@@ -21,8 +21,8 @@ BrightPath Digital Services Ltd. is fictional. The example review considers an a
 8. Escalate unresolved issues under the organisation’s process.
 
 ## Files
-- [`BrightPath_User_Access_Review_Portfolio_Case_Study.docx`]
-- [`BrightPath_User_Access_Review_Portfolio_Template.xlsx`]— working log with illustrative examples and a Read Me sheet.
+- `BrightPath_User_Access_Review_Portfolio_Case_Study.docx`
+- `BrightPath_User_Access_Review_Portfolio_Template.xlsx`— working log with illustrative examples and a Read Me sheet.
 ## Sample of the User Access Review
 
 The following illustrates how user accounts and permissions can be reviewed to determine whether access remains appropriate.
