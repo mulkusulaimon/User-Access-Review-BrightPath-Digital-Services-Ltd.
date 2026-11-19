@@ -56,8 +56,28 @@ The following illustrates how user accounts and permissions can be reviewed to d
 ## Evidence considerations
 Potential evidence includes an account/permission export, job responsibilities, documented owner approval, a change ticket, and verification of resulting permissions. Never include passwords, tokens, or confidential company data.
 
-## Framework reference
-Broadly related to NIST CSF 2.0 Protect (PR.AA: identity management, authentication, and access control). This is a high-level mapping, not a formal compliance assessment or certification claim.
+## Framework reference:
+## NIST Cybersecurity Framework 2.0 Mapping
+
+This project aligns user access management and access review activities with the following NIST CSF 2.0 subcategories.
+
+| Access Management Activity | NIST CSF 2.0 Subcategory | Subcategory Description |
+|---|---|---|
+| User identity and credential management | PR.AA-01 | Identities and credentials for authorised users, services and hardware are managed. |
+| User authentication | PR.AA-03 | Users, services and hardware are authenticated. |
+| Access permissions and authorisation | PR.AA-05 | Access permissions, entitlements and authorisations are defined, managed, enforced and reviewed using least privilege and separation of duties. |
+
+### Mapping Purpose
+
+These subcategories support:
+- User identity and credential management.
+- Authentication of users.
+- Periodic access reviews.
+- Identification of excessive permissions.
+- Removal of access that is no longer required.
+- Enforcement of least privilege.
+
+**Note:** This mapping demonstrates alignment with relevant NIST CSF 2.0 outcomes. It does not establish that the fictional organisation has implemented or satisfied these outcomes.
 
 ## Limitations
 All company names, users, systems, and records are fictional. No live environment was accessed, no permissions were changed, and no real audit was conducted. This portfolio artifact demonstrates a proposed process and documentation approach only.
